@@ -2,4 +2,3 @@ chainlit
 python-dotenv
 openai
 google-generativeai
-dotenv
